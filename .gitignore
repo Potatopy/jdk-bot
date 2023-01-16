@@ -1,0 +1,6 @@
+# Environments
+.env
+
+# IntelliJ Generated Files
+target
+.idea
